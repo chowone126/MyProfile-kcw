@@ -8,10 +8,6 @@ defaultContentLanguage = "en"
     label = "KR"
     weight = 1
     title = "Chowon's Portfolio"
-    [languages.en.params]
-      [languages.en.params.homeInfoParams]
-        title = "Dev & Design Journal"
-        content = "전북대학교 컴퓨터인공지능학부 25학번 김초원의 개인 포트폴리오 사이트입니다."
 
     [[languages.en.menus.main]]
         identifier = "about"
@@ -41,10 +37,12 @@ defaultContentLanguage = "en"
   ogCardFont = "og/plex-serif-cjk-subset.ttf"
   robotsNoIndex = true
 
+  # 메인 타이틀
   sgKicker = "COMPUTER AI Major / Class of '25"
   sgHomeTitle = "Notes & Projects"
   homePageSize = 10
 
+  # 상태바
   sgMotto = "Building digital experiences with code and design."
   sgReading = "Computer Architecture & Linux System"
   sgWriting = "Student Council & Tech Blog"
