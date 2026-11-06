@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About: kimchowon"
 ---
 
 안녕하세요, 전북대학교 컴퓨터인공지능학부 25학번 **김초원**입니다.
