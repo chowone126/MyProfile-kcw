@@ -1,5 +1,5 @@
 ---
-title: "KOALA Vibe Coding Study"
+title: "COALA Vibe Coding Study"
 date: 2026-06-20
 tags: ["동아리", "바이브코딩", "AI"]
 ---
