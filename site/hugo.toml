@@ -1,5 +1,5 @@
 baseURL = "https://example.org/"
-title = "SIGIL"
+title = "김초원 포트폴리오"
 
 
 defaultContentLanguage = "en"
@@ -8,10 +8,10 @@ defaultContentLanguage = "en"
   [languages.en]
     label = "English"
     weight = 1
-    title = "SIGIL"
+    title = "김초원 포트폴리오"
     [languages.en.params]
       [languages.en.params.homeInfoParams]
-        content = "A restrained literary theme for Hugo — paper, ink, and everything in threes. Long-form essays, research notes, and reading logs, set for the page rather than the feed."
+        content = "전북대학교 컴퓨터인공지능학부 25학번 김초원의 개인 포트폴리오 사이트입니다."
 
     [[languages.en.menus.main]]
         identifier = "typography"
