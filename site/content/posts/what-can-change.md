@@ -1,42 +1,18 @@
 ---
-translationKey: "post-nature-of-man"
-title: "What can change the nature of a man?"
-categories:
-  - quotes
-date: 2026-01-12
-slug: what-can-change
-tags:
-  - demo
-  - poetry
+title: "2026년 COMMA 학생회 집행국 국원 활동"
+date: 2026-11-20
 ---
 
-*Planescape: Torment*[^1] asks one question from its first screen to its last.
-It is never answered outright — only lived through.
+## 1. 활동 개요 및 목적
+- **활동명/시기:** 2026 단과대학 COMMA 학생회 집행국 국원 (2026년 3월 ~ 2026년 12월)
+- **활동 목적:** 학과/단대 행사 운영 및 학우들의 복지 증진을 위한 소통과 현장 지원
 
-> What can change the nature of a man? If there is anything I have learned in
-> my travels across the Planes, it is that many things may change the nature
-> of a man. Whether regret, or love, or revenge or fear — whatever you believe
-> can change the nature of a man, can.
+## 2. 본인 역할 및 주요 수행 내용
+- **역할:** 집행국 국원 (행사 진행 및 물품 배부 총괄 지원)
+- **주요 수행 내용:**
+  1. **복지 물품 배부:** 과잠 및 시험기간 간식행사 준비, 현장 명단 확인 및 배부 진행
+  2. **학과 행사 안내:** 개강총회 및 종강총회 등 대형 행사 현장 안내, 동선 정리 및 좌석 배치 지휘
 
-> I've seen belief move cities, make men stave off death, and turn an evil
-> hag's heart half-circle. This entire Fortress has been constructed from
-> belief...[^2]
-
-## The closing verse
-
-The last line of the game is Li Shangyin's 無題 — a Tang-dynasty poem on
-parting, time, and the end of feeling.[^3]
-
-> It is difficult to meet as it is difficult to part,
-> The north wind has weakened; hundreds of flowers fade way,
-> When the Spring worms die, the silk shall never come again,
-> When the candle wax becomes ash, tears shall stop.
-
-## Note
-
-Footnotes in this theme become Tufte-style margin notes on wide screens —
-this line was placed there so you can see one at work.
-
-[^1]: *Planescape: Torment* (Black Isle Studios, 1999).
-[^2]: Via [Wikiquote](https://en.wikiquote.org/wiki/Planescape:_Torment).
-[^3]: Li Shangyin (c. 813–858), 無題: 「相見時難别亦難，東風無力百花殘。春蠶到死絲方盡，蠟炬成灰淚始乾。」 — English rendering from the game's closing.
+## 3. 결과 및 배운 점
+- **결과:** 학 학우 대상 행사 성공적 마무리 및 행사 만족도 향상
+- **배운 점:** 현장 상황에 빠르게 대응하는 소통 능력과 대규모 인원 운영을 위한 체계적인 준비의 중요성을 배움
