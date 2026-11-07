@@ -1,7 +1,7 @@
 ---
 title: "COALA Vibe Coding Study"
 date: 2026-06-20
-tags: ["동아리", "바이브코딩", "AI"]
+tags: ["진행 완료", "동아리", "바이브코딩", "AI"]
 ---
 
 > **AI 에이전트(Claude·Gemini) 기반 바이브코딩 & 방어적 프롬프팅 학습**
