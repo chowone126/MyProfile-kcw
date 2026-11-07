@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chowone126.github.io/MyProfile-kcw/sitemap.xml
