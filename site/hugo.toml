@@ -77,4 +77,4 @@ defaultContentLanguage = "en"
         inline = [['\(', '\)']]
         block = [['$$', '$$'], ['\[', '\]']]
   [markup.highlight]
-    noClasses = false
+    noClasses = false# Portfolio Configuration updated for GitHub Pages
