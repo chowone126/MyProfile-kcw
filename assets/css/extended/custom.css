@@ -1,0 +1,15 @@
+a[href*="진행중"] {
+  background-color: #ff9800 !important;
+  color: white !important;
+  border-radius: 4px;
+  padding: 2px 6px;
+  font-weight: bold;
+}
+
+a[href*="진행완료"] {
+  background-color: #4caf50 !important;
+  color: white !important;
+  border-radius: 4px;
+  padding: 2px 6px;
+  font-weight: bold;
+}
