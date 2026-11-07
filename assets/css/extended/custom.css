@@ -12,4 +12,8 @@ a[href*="진행완료"] {
   border-radius: 4px;
   padding: 2px 6px;
   font-weight: bold;
+}/* Keyboard Accessibility Focus Styling */
+a:focus, a:focus-visible, button:focus {
+    outline: 2px solid #0066cc !important;
+    outline-offset: 2px !important;
 }
